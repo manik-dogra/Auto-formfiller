@@ -17,8 +17,6 @@ https://user-images.githubusercontent.com/74672126/182907543-3a5f37b5-e9fd-4e3f-
           D:\CC++ programs\Projects\Auto-fromfiller\Auto-formfiller\chromedriver_win32 <br/>
 ###### Path in the Code Like this: <br/>
           D:\CC++ programs\Projects\Auto-fromfiller\Auto-formfiller\chromedriver_win32\chromedriver.exe <br/>
-<img width="664" alt="image" src="https://user-images.githubusercontent.com/74672126/182042359-d2b34f49-2382-47d2-a2e6-fe8fa802c287.png">
-<br/>
 
 >* Look msedgedriver.exe added in the path of the code. <br/>
 >* Create a database named **formfiller** in XAMPP. <br/>
