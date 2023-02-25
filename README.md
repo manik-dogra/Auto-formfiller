@@ -14,9 +14,9 @@ https://user-images.githubusercontent.com/74672126/182907543-3a5f37b5-e9fd-4e3f-
 >* Install Python, SQL, Edge Driver, and XAMPP in your PC. <br/>
 >* Add the path of the edge driver in environment variables and also change it in your python file as shown below. <br/>
 ###### Path in Environment Variable Like this: <br/>
-          C:\Users\krish\OneDrive\Documents\Desktop\Filler\edgedriver_win64 <br/>
+          D:\CC++ programs\Projects\Auto-fromfiller\Auto-formfiller\chromedriver_win32 <br/>
 ###### Path in the Code Like this: <br/>
-          C:\\Users\\krish\\OneDrive\\Documents\\Desktop\\formfiller\\edgedriver_win64\\msedgedriver.exe <br/>
+          D:\CC++ programs\Projects\Auto-fromfiller\Auto-formfiller\chromedriver_win32\chromedriver.exe <br/>
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/74672126/182042359-d2b34f49-2382-47d2-a2e6-fe8fa802c287.png">
 <br/>
 
